@@ -1,0 +1,55 @@
+.home-btn {
+    font-size: 15px; 
+    color: #fff; 
+    background: #1DD1A1; 
+    height: 50px; 
+    box-shadow: 0px 0px 16px  rgba(0, 0, 0, 0.17);
+    width: 15%;
+    border: 0px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer; 
+    left: 0;
+}
+.header1 {
+    width: 100%; 
+    background: white;
+    display: flex;  
+    margin-bottom: 2px;
+    align-items: center;
+
+}
+.title1 {
+    right:50%;
+    left: 50%;
+    position: absolute;
+    color: #0066c0;
+}
+.body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.pic-div{
+    height: 100%;
+    width: 50%;
+}
+.pic-div img {
+    height: 60%;
+    width: 60%;
+}
+.info-div {
+    height: 100%;
+    width: 50%;
+   margin-top: 10rem;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    /* position: relative; */
+}
+.info-div p {
+    font-size: larger;
+    
+}

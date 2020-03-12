@@ -55,8 +55,8 @@ if(err > 0){
         title : this.state.Title,
         price : price,
         picture: this.state.Picture,
-        state : Number(this.state.state),
-        category : categoryId,
+        stateId : Number(this.state.state),
+        categoryId : categoryId,
         stock : this.state.stock,
         description : this.state.Description
     }
